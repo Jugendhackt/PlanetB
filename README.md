@@ -45,7 +45,7 @@ Ansprechperson
     - Momme (= Zulip-Name) 
     - Andrej
 - Mentor:innen
-    - Gabriela
+    - Gabriella
     - Peter
     - Mario
 
