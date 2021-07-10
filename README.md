@@ -1,49 +1,14 @@
-# PlanetB
-Es gibt kein Planet B, daher muss man in diesem Scratch Spiel die Welt vom Müll befreien
-
-
 Ein Umweltspiel: Es gibt keinen Planet B
 =========================================
 
 
 ###### tags: `jugendhackt` `meta`
-Unter brainstorming.alpaka.space könnt ihr die Idee als Poster visualisieren.
-
-
 
 Das Endprodukt
 --------------
 
 ![](https://pad.medialepfade.net/uploads/upload_92099824eb1b5ce7b8ee85532fb8cef7.png)
 ![](https://pad.medialepfade.net/uploads/upload_b3f4334a27ba94301e21e07c8cc5ba4c.png)
-
-
-
-
-
-
-Problem / Fragestellung
------------------------
-
-- Spielerisch lernen, wie wir gemeinsam die Welt retten können
-
-- Was hilft uns dabei, die Erde zu retten?
-   - Bäume pflanzen
-   - verschiedene Städte, die man entmüllen muss
-   - Land/Meer/Luft/Weltraum entmüllen
-   - Feinde: man wird von Multimilliardär:innen aufgehalten, die nur Profit als Interessen haben
-- Was sind die Probleme & Gegner?
-   - Feinde: man wird von Multimilliardär:innen aufgehalten, die nur Profit als Interessen haben
-
-
-
-Daten & Technologie
--------------------
-
-- RPG-Maker 
-- Scratch
-
---- 
 
 - Es gibt kein Planet B ist ein Spiel
 - ein Jahr dauert eine Sekunde
@@ -56,14 +21,21 @@ Daten & Technologie
     - die verschiedenen Level als Fortschritt der Umweltverschmutzung und haben verschiedene Hintergründe (zeitangepasst)
 
 
+Problem / Fragestellung
+-----------------------
 
-Was fehlt uns?
---------------
+- Spielerisch lernen, wie wir gemeinsam die Welt retten können
+- Was hilft uns dabei, die Erde zu retten?
+   - Bäume pflanzen
+   - verschiedene Städte, die man entmüllen muss
+   - Land/Meer/Luft/Weltraum entmüllen
+- Was sind die Probleme & Gegner?
+   - Feinde: man wird von Multimilliardär:innen aufgehalten, die nur Profit als Interessen haben
 
-- Mehr Teilnehmer:innen
-- Jemand, der oder die schon mal einen RPG-Maker genutzt hat
-- talentierte Leveldesigner:innen
 
+Daten & Technologie
+-------------------
+- Scratch
 
 
 Ansprechperson
@@ -76,15 +48,6 @@ Ansprechperson
     - Gabriela
     - Peter
     - Mario
-
-
-
-Kommentare
-----------
-
-- Hier ist Platz für Kommentare. 
-- Diese werden nicht mehr auf dem Plakat angezeigt.
-- Bitte pro Kommentar ein Anführungsstrich
 
 
 Unsere Skizze:
