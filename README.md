@@ -5,7 +5,7 @@ Planet B
 Das Endprodukt
 --------------
 
-![](https://pad.medialepfade.net/uploads/upload_eb00cd2d304bba6d5dfe0647855ce6b1.PNG)
+![](screenshot.png)
 
 - Es gibt kein Planet B ist ein Spiel
 - Start 1984 - Ende 2684
